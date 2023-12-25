@@ -2,6 +2,9 @@
 
 This project is a real-time web chat application that enables users to communicate instantly using WebSocket technology provided by Socket.IO.
 
+## Review
+<img src="./readmeSrc/1.png">
+
 ## Features
 
 - **Real-Time Communication:** Utilizes Socket.IO for seamless bidirectional communication between the server and clients, allowing instant message updates.
